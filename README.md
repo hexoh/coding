@@ -5,5 +5,5 @@ This section contains a list of standard word abbreviations. In some cases, seve
 Additions to this list can be made by submitting requests to ACS Quality Assurance. The following standard word abbreviations should be used in naming records, fields, and SQRs:
 
 | Word(s) | Abbreviation | Description |
-| --- | --- |
-|Abbreviate Abbreviation | ABRV |
+| --- | --- | --- |
+|Abbreviate <br> Abbreviation | ABRV |
