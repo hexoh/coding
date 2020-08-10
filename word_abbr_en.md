@@ -6,17 +6,12 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 
 | Word(s) | Abbreviation | Description |
 | --- | --- | --- |
-|Abbreviate <br> Abbreviation | ABRV |
-
-Academic	ACAD	
-Accept
-Acceptance
-Accepted	ACPT	
-Access	ACCS	
-Accident	ACDNT	
-Accomplish
-Accomplishment
-Accomplishments	ACMP	
+| Abbreviate <br> Abbreviation | ABRV | |
+| Academic | ACAD | |
+| Accept <br> Acceptance <br> Accepted | ACPT | |
+| Access | ACCS | |
+| Accident | ACDNT | |
+| Accomplish <br> Accomplishment <br> Accomplishments | ACMP | |
 Account*	ACCT*	
 Accounting*	ACCTG*	
 Accounts Payable
