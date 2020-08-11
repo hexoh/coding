@@ -12,8 +12,8 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Access | ACCS | |
 | Accident | ACDNT | |
 | Accomplish <br> Accomplishment <br> Accomplishments | ACMP | |
-Account*	ACCT*	
-Accounting*	ACCTG*	
+| Account* | ACCT* | |
+| Accounting* | ACCTG* | |
 Accounts Payable
 Advanced Placement	AP	
 Accounts Receivable	AR	
