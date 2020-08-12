@@ -14,8 +14,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Accomplish <br> Accomplishment <br> Accomplishments | ACMP | |
 | Account* | ACCT* | |
 | Accounting* | ACCTG* | |
-Accounts Payable
-Advanced Placement	AP	
+| Accounts Payable <br> Advanced Placement | AP | |
 Accounts Receivable	AR	
 Accredited	ACRD	
 Accrual	ACRL	
