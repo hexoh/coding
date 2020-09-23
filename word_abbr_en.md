@@ -15,36 +15,25 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Account* | ACCT* | |
 | Accounting* | ACCTG* | |
 | Accounts Payable <br> Advanced Placement | AP | |
-Accounts Receivable	AR	
-Accredited	ACRD	
-Accrual	ACRL	
-Accumulated*	ACCUM*	
-Accumulation
-Accumulative	ACUM	
-Achieve
-Achievement	ACHV	
-Acquisition*	ACQ*	
-Act
-Active
-Activity
-American College Test	ACT	
-Action*	ACTN*	
-Actual	ACTL	
-Add
-Added	ADD	
-Additional*	ADDL*	
-Address*	ADDR*	Narrative data which describes a person, place or thing’s location
-Ad hoc	ADHC	
-Adjudicate
-Adjudicated
-Adjudication	ADJD	
-Adjusted Gross Income	AGI	
-Adjustment*	ADJ*	
-Administered
-Administrated
-Administration	ADM	
-Admissible
-Admission	ADMS	
+| Accounts Receivable |	AR | |
+| Accredited | ACRD | |
+| Accrual | ACRL | |
+| Accumulated* | ACCUM* | |
+| Accumulation <br> Accumulative | ACUM | |
+| Achieve <br> Achievement | ACHV | |
+| Acquisition* | ACQ* | |
+| Act <br> Active <br> Activity <br> American College Test | ACT | |
+| Action* | ACTN* | |
+| Actual | ACTL | |
+| Add <br> Added | ADD | |
+| Additional* |	ADDL* | |
+| Address* | ADDR* | Narrative data which describes a person, place or thing’s location |
+| Ad hoc | ADHC | |
+| Adjudicate <br> Adjudicated <br> Adjudication | ADJD | |
+| Adjusted Gross Income | AGI | |
+| Adjustment* | ADJ* | |
+| Administered <br> Administrated <br> Administration | ADM | |
+| Admissible <br> Admission | ADMS | |
 Admittance
 Admitted	ADMT	
 Advanced Placement
