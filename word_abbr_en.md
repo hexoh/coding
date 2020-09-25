@@ -34,8 +34,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Adjustment* | ADJ* | |
 | Administered <br> Administrated <br> Administration | ADM | |
 | Admissible <br> Admission | ADMS | |
-Admittance
-Admitted	ADMT	
+| Admittance <br> Admitted | ADMT | |
 Advanced Placement
 Accounts Payable	AP	
 Advice	ADVC	
