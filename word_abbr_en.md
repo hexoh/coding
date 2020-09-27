@@ -35,8 +35,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Administered <br> Administrated <br> Administration | ADM | |
 | Admissible <br> Admission | ADMS | |
 | Admittance <br> Admitted | ADMT | |
-Advanced Placement
-Accounts Payable	AP	
+| Advanced Placement <br> Accounts Payable | AP | |
 Advice	ADVC	
 Affiliation	AFFL	
 After	AFT	
