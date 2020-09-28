@@ -36,7 +36,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Admissible <br> Admission | ADMS | |
 | Admittance <br> Admitted | ADMT | |
 | Advanced Placement <br> Accounts Payable | AP | |
-Advice	ADVC	
+| Advice | ADVC | |
 Affiliation	AFFL	
 After	AFT	
 Age	AGE	
