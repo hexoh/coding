@@ -38,7 +38,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Advanced Placement <br> Accounts Payable | AP | |
 | Advice | ADVC | |
 | Affiliation | AFFL | |
-After	AFT	
+| After | AFT | |
 Age	AGE	
 Agency	AGCY	
 Agent	AGNT	
