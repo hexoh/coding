@@ -40,28 +40,22 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Affiliation | AFFL | |
 | After | AFT | |
 | Age | AGE | |
-Agency	AGCY	
-Agent	AGNT	
-Aid	AID	
-Alien	ALN	
-All	ALL	
-Allocate
-Allocation*	ALLOC*	
-Alpha	ALPH	
-Alter
-Alternate	ALT	
-Alumni
-Alumnus	ALMN	
-AM	AM	“Ante Meridiem” (morning)
-American College Test
-Act
-Active
-Activity	ACT	
-Amount*	AMT*	Monetary value(s)
-Analysis	ANLS	
-Annual*	ANNL*	
-Anonymous	ANON	
-Answer	ANS	
+| Agency | AGCY | |
+| Agent | AGNT | |
+| Aid | AID | |
+| Alien | ALN | |
+| All | ALL | |
+| Allocate <br> Allocation* | ALLOC* | |
+| Alpha | ALPH | |
+| Alter <br> Alternate | ALT | |
+| Alumni <br> Alumnus | ALMN | |
+| AM | AM | “Ante Meridiem” (morning) |
+| American College Test <br> Act <br> Active <br> Activity | ACT | |
+| Amount* | AMT* | Monetary value(s) |
+| Analysis | ANLS | |
+| Annual* | ANNL* | |
+| Anonymous | ANON | |
+| Answer | ANS | |
 Apartment	APT	
 Appeal
 Appealed	APEL	
