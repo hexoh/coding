@@ -39,7 +39,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Advice | ADVC | |
 | Affiliation | AFFL | |
 | After | AFT | |
-Age	AGE	
+| Age | AGE | |
 Agency	AGCY	
 Agent	AGNT	
 Aid	AID	
