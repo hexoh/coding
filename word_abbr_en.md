@@ -56,21 +56,17 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Annual* | ANNL* | |
 | Anonymous | ANON | |
 | Answer | ANS | |
-Apartment	APT	
-Appeal
-Appealed	APEL	
-Applicant*	APP*	
-Application*	APPL*	
-Appointment	APPT	
-Approval
-Approve	APRV	
-Area	AREA	
-Array	ARAY	
-Arrears	ARRS	
-Ascending	ASC	
-Assign
-Assigned
-Assignment	ASGN	
+| Apartment | APT | |
+| Appeal <br> Appealed | APEL | |
+| Applicant* | APP* | |
+| Application* | APPL* | |
+| Appointment | APPT | |
+| Approval <br> Approve | APRV | |
+| Area | AREA | |
+| Array | ARAY | |
+| Arrears | ARRS | |
+| Ascending | ASC | |
+| Assign <br> Assigned <br> Assignment | ASGN | |
 Association	ASSC	
 Assumption	ASMP	
 Athlete
