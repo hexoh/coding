@@ -67,10 +67,9 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Arrears | ARRS | |
 | Ascending | ASC | |
 | Assign <br> Assigned <br> Assignment | ASGN | |
-Association	ASSC	
-Assumption	ASMP	
-Athlete
-Athletic	ATHL	
+| Association | ASSC | |
+| Assumption | ASMP | |
+| Athlete <br> Athletic | ATHL | |
 Attach	ATCH	
 Attempt	ATMPT	
 Attend
