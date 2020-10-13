@@ -70,7 +70,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Association | ASSC | |
 | Assumption | ASMP | |
 | Athlete <br> Athletic | ATHL | |
-Attach	ATCH	
+| Attach | ATCH | |
 Attempt	ATMPT	
 Attend
 Attendance	ATND	
