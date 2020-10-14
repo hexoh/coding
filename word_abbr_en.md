@@ -71,7 +71,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Assumption | ASMP | |
 | Athlete <br> Athletic | ATHL | |
 | Attach | ATCH | |
-Attempt	ATMPT	
+| Attempt | ATMPT | |
 Attend
 Attendance	ATND	
 Attention	ATTN	
