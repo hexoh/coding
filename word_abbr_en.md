@@ -72,8 +72,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Athlete <br> Athletic | ATHL | |
 | Attach | ATCH | |
 | Attempt | ATMPT | |
-Attend
-Attendance	ATND	
+| Attend <br> Attendance | ATND | |
 Attention	ATTN	
 Attribute	ATTR	
 Audit
