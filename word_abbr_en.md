@@ -73,7 +73,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Attach | ATCH | |
 | Attempt | ATMPT | |
 | Attend <br> Attendance | ATND | |
-Attention	ATTN	
+| Attention | ATTN | |
 Attribute	ATTR	
 Audit
 Audited	ADT	
