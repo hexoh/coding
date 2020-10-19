@@ -74,7 +74,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Attempt | ATMPT | |
 | Attend <br> Attendance | ATND | |
 | Attention | ATTN | |
-Attribute	ATTR	
+| Attribute | ATTR | |
 Audit
 Audited	ADT	
 Authority
