@@ -75,8 +75,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Attend <br> Attendance | ATND | |
 | Attention | ATTN | |
 | Attribute | ATTR | |
-Audit
-Audited	ADT	
+| Audit <br> Audited | ADT | |
 Authority
 Authorize	AUTH	
 Auxiliary	AUX	
