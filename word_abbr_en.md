@@ -76,8 +76,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Attention | ATTN | |
 | Attribute | ATTR | |
 | Audit <br> Audited | ADT | |
-Authority
-Authorize	AUTH	
+| Authority <br> Authorize | AUTH | |
 Auxiliary	AUX	
 Availability
 Available	AVL	
