@@ -77,7 +77,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Attribute | ATTR | |
 | Audit <br> Audited | ADT | |
 | Authority <br> Authorize | AUTH | |
-Auxiliary	AUX	
+| Auxiliary | AUX | |
 Availability
 Available	AVL	
 Average	AVG	The mean of two or more numbers
