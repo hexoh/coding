@@ -78,8 +78,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Audit <br> Audited | ADT | |
 | Authority <br> Authorize | AUTH | |
 | Auxiliary | AUX | |
-Availability
-Available	AVL	
+| Availability <br> Available | AVL | |
 Average	AVG	The mean of two or more numbers
 Average Cumulative Grade	ACG	
 Award
