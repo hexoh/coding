@@ -79,7 +79,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Authority <br> Authorize | AUTH | |
 | Auxiliary | AUX | |
 | Availability <br> Available | AVL | |
-Average	AVG	The mean of two or more numbers
+| Average | AVG | The mean of two or more numbers |
 Average Cumulative Grade	ACG	
 Award
 Awarded	AWRD	
