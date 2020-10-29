@@ -80,7 +80,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Auxiliary | AUX | |
 | Availability <br> Available | AVL | |
 | Average | AVG | The mean of two or more numbers |
-Average Cumulative Grade	ACG	
+| Average Cumulative Grade | ACG | |
 Award
 Awarded	AWRD	
 Balance*	BAL*	The net value (balance) of an account
