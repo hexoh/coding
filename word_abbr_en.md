@@ -81,8 +81,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Availability <br> Available | AVL | |
 | Average | AVG | The mean of two or more numbers |
 | Average Cumulative Grade | ACG | |
-Award
-Awarded	AWRD	
+| Award <br> Awarded | AWRD | |
 Balance*	BAL*	The net value (balance) of an account
 Bank	BNK	
 Bargain	BARG	
