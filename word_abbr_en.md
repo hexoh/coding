@@ -83,7 +83,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Average Cumulative Grade | ACG | |
 | Award <br> Awarded | AWRD | |
 | Balance* | BAL* | The net value (balance) of an account |
-Bank	BNK	
+| Bank | BNK | |
 Bargain	BARG	
 Base
 Basic	BAS	
