@@ -84,7 +84,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Award <br> Awarded | AWRD | |
 | Balance* | BAL* | The net value (balance) of an account |
 | Bank | BNK | |
-Bargain	BARG	
+| Bargain | BARG | |
 Base
 Basic	BAS	
 Batch	BTCH	
