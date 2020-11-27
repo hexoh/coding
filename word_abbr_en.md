@@ -85,10 +85,9 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Balance* | BAL* | The net value (balance) of an account |
 | Bank | BNK | |
 | Bargain | BARG | |
-Base
-Basic	BAS	
-Batch	BTCH	
-Before	BEF	
+| Base <br> Basic | BAS | |
+| Batch | BTCH | |
+| Before | BEF | |
 Begin
 Beginning	BEGN	
 Beginning of Term	BOT	
