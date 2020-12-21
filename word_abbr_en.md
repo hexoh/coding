@@ -89,7 +89,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Batch | BTCH | |
 | Before | BEF | |
 | Begin <br> Beginning | BEGN | |
-Beginning of Term	BOT	
+| Beginning of Term | BOT | |
 Benefits	BEN	
 Bid	BID	
 Bill
