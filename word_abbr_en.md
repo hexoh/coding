@@ -90,7 +90,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Before | BEF | |
 | Begin <br> Beginning | BEGN | |
 | Beginning of Term | BOT | |
-Benefits	BEN	
+| Benefits | BEN | |
 Bid	BID	
 Bill
 Billing	BILL	
