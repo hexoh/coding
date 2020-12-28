@@ -92,8 +92,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Beginning of Term | BOT | |
 | Benefits | BEN | |
 | Bid | BID | |
-Bill
-Billing	BILL	
+| Bill <br> Billing | BILL | |
 Billing and Receivables System	BRS	
 Birth	BRTH	
 Board	BRD	
