@@ -94,8 +94,8 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Bid | BID | |
 | Bill <br> Billing | BILL | |
 | Billing and Receivables System | BRS | |
-Birth	BRTH	
-Board	BRD	
+| Birth | BRTH | |
+| Board | BRD | |
 Break	BRK	
 Budget
 Budgetable	BUD	
