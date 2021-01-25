@@ -97,9 +97,8 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Birth | BRTH | |
 | Board | BRD | |
 | Break | BRK | |
-Budget
-Budgetable	BUD	
-Budget Balance Account	BBA	
+| Budget <br> Budgetable | BUD | |
+| Budget Balance Account | BBA | |
 Build
 Building	BLD	
 Business	BUS	
