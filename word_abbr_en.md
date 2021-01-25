@@ -99,8 +99,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Break | BRK | |
 | Budget <br> Budgetable | BUD | |
 | Budget Balance Account | BBA | |
-Build
-Building	BLD	
+| Build <br> Building | BLD | |
 Business	BUS	
 Business Unit*	BU*	
 Buy
