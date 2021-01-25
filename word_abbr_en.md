@@ -96,7 +96,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Billing and Receivables System | BRS | |
 | Birth | BRTH | |
 | Board | BRD | |
-Break	BRK	
+| Break | BRK | |
 Budget
 Budgetable	BUD	
 Budget Balance Account	BBA	
