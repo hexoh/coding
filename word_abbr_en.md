@@ -93,7 +93,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Benefits | BEN | |
 | Bid | BID | |
 | Bill <br> Billing | BILL | |
-Billing and Receivables System	BRS	
+| Billing and Receivables System | BRS | |
 Birth	BRTH	
 Board	BRD	
 Break	BRK	
