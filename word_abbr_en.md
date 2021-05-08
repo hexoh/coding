@@ -128,42 +128,33 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Charge | CRG | |
 | Chartfield | CHARTF | |
 | Check <br> Checked | CHK | |
-| Citizen
-| Citizenship	CTZN	
-| City	CTY	
-| Class	CLAS	
-| Clear
-| Cleared	CLR	
-| CLEP	CLEP	
-| Close	CLO	
-| Club	CLB	
-| COBRA*	CBR*	
-| Code*	CD*	Data which represents encoded values (translate or code table)
-| Collect
-| Collection	CLCT	
-| College	COLG	
-| Column	CLMN	
-| Combination
-| Combine	COMB	
-| Command	CMD	
-| Comment	CMT	An explanatory, illustrative or critical note, remark or observation
-| Committee	CMMTTEE	
-| Company*	CO*	
-| Comparative*	COMPA*	
-| Competitor	CPTR	
-| Complete
-| Completion
-| Compliance	CMPL	
-| Component	CMPT	When the meaning is “part”, use abbreviation “PRT”.
-| Composite
-| Compensation	COMP	
-| Conditional	COND	
-| Confidential	CNFD	
-| Confirm
-| Confirmation*	CONF*	
-| Constant	CNST
-| CST	Data which is unchanging or invariable
-| Contact	CTCT	
+| Citizen <br> Citizenship | CTZN | |
+| City | CTY | |
+| Class | CLAS | |
+| Clear <br> Cleared | CLR | |
+| CLEP | CLEP | |
+| Close | CLO | |
+| Club | CLB | |
+| COBRA* | CBR* | |
+| Code* | CD* | Data which represents encoded values (translate or code table) |
+| Collect <br> Collection | CLCT | |
+| College | COLG | |
+| Column | CLMN | |
+| Combination <br> Combine | COMB | |
+| Command | CMD | |
+| Comment | CMT | An explanatory, illustrative or critical note, remark or observation |
+| Committee | CMMTTEE | |
+| Company* | CO* | |
+| Comparative* | COMPA* | |
+| Competitor | CPTR | |
+| Complete <br> Completion <br> Compliance | CMPL | |
+| Component | CMPT | When the meaning is “part”, use abbreviation “PRT”. |
+| Composite <br> Compensation | COMP | |
+| Conditional | COND | |
+| Confidential | CNFD | |
+| Confirm <br> Confirmation* | CONF* | |
+| Constant | CNST <br> CST | Data which is unchanging or invariable |
+| Contact | CTCT | |
 | Continue
 | Continuing
 | Continuous	CONT	
