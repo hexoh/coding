@@ -155,9 +155,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Confirm <br> Confirmation* | CONF* | |
 | Constant | CNST <br> CST | Data which is unchanging or invariable |
 | Contact | CTCT | |
-| Continue
-| Continuing
-| Continuous	CONT	
+| Continue <br> Continuing <br> Continuous | CONT | |
 | Contract
 | Contractor	CNTR	
 | Control*	CNTL*	
