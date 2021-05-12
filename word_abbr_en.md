@@ -165,7 +165,7 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Count <br> Counter | CNT | A number of people or things that have been “counted”, such as inventory cycle count |
 | Country | CTRY | |
 | County | CNTY | |
-| Course*	CRSE*	
+| Course* | CRSE* | |
 | Coverage*	COVRG*	
 | Create	CRE	
 | Credential	CRDL	
