@@ -156,19 +156,15 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Constant | CNST <br> CST | Data which is unchanging or invariable |
 | Contact | CTCT | |
 | Continue <br> Continuing <br> Continuous | CONT | |
-| Contract
-| Contractor	CNTR	
-| Control*	CNTL*	
-| Conversation*	CONVR*	
-| Conversion*
-| Convert*
-| Converted	CNV*	
-| Correspondence	CRSP	
-| Cost	COST	
-| Count
-| Counter	CNT	A number of people or things that have been “counted”, such as inventory | cycle count
-| Country	CTRY	
-| County	CNTY	
+| Contract <br> Contractor | CNTR | |
+| Control* | CNTL* | |
+| Conversation* | CONVR* | |
+| Conversion*<br> Convert* <br> Converted | CNV* | |
+| Correspondence | CRSP | |
+| Cost | COST | |
+| Count <br> Counter | CNT | A number of people or things that have been “counted”, such as inventory cycle count |
+| Country | CTRY | |
+| County | CNTY | |
 | Course*	CRSE*	
 | Coverage*	COVRG*	
 | Create	CRE	
