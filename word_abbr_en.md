@@ -262,37 +262,26 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Entitle <br> Entitlement | ENTL | |
 | Equal <br> Equality <br> Equivalence <br> Equivalent | EQ | |
 | Equal Employment Opportunity <br> Equal Opportunity | EEO | |
-| Equip	EQP	
-| Error	ERR	
-| Establishment	ESTB	
-| Ethnic	ETHN	
-| Evaluation
-| Evaluator	EVAL	
-| Event	EVNT	
-| Exam	EXM	
-| Exception	EXCP	
-| Exclude
-| Exclusion	EXCL	
-| Execute
-| Execution	EXEC	
-| Exempt
-| Exemption	EXMT	
-| Expect
-| Expected	EXPC	
-| Expected Family Contribution	EFC	
-| Expedite	XPDT	
-| Expense
-| Export
-| Express	EXP	
-| Experimental	EXPM	
-| Expiration
-| Expire	EXPR	
-| Export
-| Expense	EXP	
-| Extend
-| Extended
-| Extension	EXT	
-| External	EXTR	
+| Equip | EQP | |
+| Error | ERR | |
+| Establishment | ESTB | |
+| Ethnic | ETHN | |
+| Evaluation <br> Evaluator | EVAL | |
+| Event | EVNT | |
+| Exam | EXM | |
+| Exception | EXCP | |
+| Exclude <br> Exclusion | EXCL | |
+| Execute <br> Execution | EXEC | |
+| Exempt <br> Exemption | EXMT | |
+| Expect <br> Expected | EXPC | |
+| Expected Family Contribution | EFC | |
+| Expedite | XPDT | |
+| Expense <br> Export <br> Express | EXP | |
+| Experimental | EXPM | |
+| Expiration <br> Expire | EXPR | |
+| Export <br> Expense | EXP | |
+| Extend <br> Extended <br> Extension | EXT | |
+| External | EXTR | |
 | Facility	FCLT	
 | Faculty	FAC	
 | Family	FMLY	
