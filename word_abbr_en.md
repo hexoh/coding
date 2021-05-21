@@ -166,12 +166,10 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Country | CTRY | |
 | County | CNTY | |
 | Course* | CRSE* | |
-| Coverage*	COVRG*	
-| Create	CRE	
-| Credential	CRDL	
-| Credit*	CR*
-| CRDT	Use “CR” for field names relating to financial data
-| Use “CRDT” for field names relating to academic work
+| Coverage* | COVRG* | |
+| Create | CRE | |
+| Credential | CRDL | |
+| Credit* | CR* <br> CRDT | Use “CR” for field names relating to financial data <br> Use “CRDT” for field names relating to academic work |
 | CREF	CREF	
 | Cross	CRS	
 | Cross List
