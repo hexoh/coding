@@ -170,45 +170,37 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Create | CRE | |
 | Credential | CRDL | |
 | Credit* | CR* <br> CRDT | Use “CR” for field names relating to financial data <br> Use “CRDT” for field names relating to academic work |
-| CREF	CREF	
-| Cross	CRS	
-| Cross List
-| Cross Listed	XLST	
-| Cross Reference	XREF	
-| Cumulative	CUM	
-| Currency*	CURR*	
-| Current*	CUR*	
-| Cursor	CRSR	
-| Custodian	CSTN	
-| Customer*	CUST*	
-| Daily	DLY	
-| Data	DATA	
-| Data Processing	DP	
-| Date*	DT*	A calendar day, month, and year (including century)
-| Date-Time Stamp	DTTM	
-| Day*	DD*
-| DY*	A day of the week (Sunday, Monday, etc.)
-| Dead
-| Death
-| Deceased	DEAD	
-| Debit*	DR*	
-| Decimal	DEC	
-| Deduct
-| Deduction*	DED*	
-| Default*	DFLT*	
-| Deficit	DFCT	
-| Definition*	DEFN*	
-| Degree	DEG	
-| Delete	DEL	
-| Deliver
-| Delivery	DLVR	
-| Demo	DMO	
-| Dental	DNTL	
-| Department*	DEPT*	
-| Department of Motor Vehicles	DMV	
-| Dependency
-| Dependent*
-| Depends	DEP*	
+| CREF | CREF | |
+| Cross | CRS | |
+| Cross List <br> Cross Listed | XLST | |
+| Cross Reference | XREF | |
+| Cumulative | CUM | |
+| Currency* | CURR* | |
+| Current* | CUR* | |
+| Cursor | CRSR | |
+| Custodian | CSTN | |
+| Customer* | CUST* | |
+| Daily | DLY | |
+| Data | DATA | |
+| Data Processing | DP | |
+| Date* | DT* | A calendar day, month, and year (including century) |
+| Date-Time Stamp | DTTM | |
+| Day* | DD* <br> DY* | A day of the week (Sunday, Monday, etc.) |
+| Dead <br> Death <br> Deceased | DEAD | |
+| Debit* | DR* | |
+| Decimal | DEC | |
+| Deduct <br> Deduction* | DED* | |
+| Default* | DFLT* | |
+| Deficit | DFCT | |
+| Definition* | DEFN* | |
+| Degree | DEG | |
+| Delete | DEL | |
+| Deliver <br> Delivery | DLVR | |
+| Demo | DMO | |
+| Dental | DNTL | |
+| Department* | DEPT* | |
+| Department of Motor Vehicles | DMV | |
+| Dependency <br> Dependent* <br> Depends | DEP* | |
 | Deposit	DPST	
 | Depreciation*	DEPR*	
 | Description*	DESCR*
