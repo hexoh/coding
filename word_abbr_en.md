@@ -201,98 +201,67 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Department* | DEPT* | |
 | Department of Motor Vehicles | DMV | |
 | Dependency <br> Dependent* <br> Depends | DEP* | |
-| Deposit	DPST	
-| Depreciation*	DEPR*	
-| Description*	DESCR*
-| DSC	Narrative data which translates a code or number. When a suffix, use “_DSC” (see | Standard Field Name Suffix table).
-| Design	DSGN	
-| Destination*	DEST*	
-| Detail*	DETL*	
-| Develop
-| Development
-| Deviation	DEV	
-| Difference
-| Differential	DIFF	
-| Digit	DGT	
-| Direct
-| Direction
-| Directional	DIR	
-| Disability
-| Disabled	DISA	
-| Disbursed
-| Disbursement	DSB	
-| Discount*	DISC*	
-| Displacement	DSPL	
-| Display	DISP	
-| Disposition	DSP	
-| Distribute
-| Distribution*	DIST*	
-| District	DSTR	
-| Division	DIV	
-| Division of Continuing Education	DCE	
-| Document	DOC	
-| Donor	DONR	
-| Down	DN	
-| Drive
-| Driver	DRV	
-| Drop	DRP	
-| Due	DUE	
-| Duplicate*
-| Duplication	DUP*	
-| Each	EA	
-| Early	ERLY	
-| Earn
-| Earned
-| Earnings*	EARN*	
-| Earned Income Credit	EIC	
-| Educate
-| Education	EDU	
-| Effect
-| Effective*	EFF*	
-| Effective Date*	EFFDT*	
-| Effective Date Sequence*	EFFSEQ*	
-| Effort	EFRT	
-| Elect
-| Elected
-| Elective	ELCT	
-| Electronic Data Interchange	EDI	
-| Electronic Funds Transfer	EFT	
-| Electronic Mail	EM	
-| Eligibility*
-| Eligible	ELIG*	
-| Emergency	EMRG	
-| Emphasis	EMPH	
-| Employee*	EE*
-| EMPL	
-| Employee ID*	EMPLID*	
-| Employer*	ER*	
-| Employment	EMPLMT	
-| Encumber
-| Encumbrance	ENCB	
-| End
-| Ending	END	
-| End of Term	EOT	
-| Endorse
-| Endorsement	ENDR	
-| Endorsement	ENDR	
-| Endow
-| Endowment	ENDW	
-| Engineer
-| Engineering	ENGN	
-| English	ENGL	
-| Enrichment	ENRCH	
-| Enrollment	ENRL	
-| Enter
-| Entered
-| Entry	ENTR	
-| Entitle
-| Entitlement	ENTL	
-| Equal
-| Equality
-| Equivalence
-| Equivalent	EQ	
-| Equal Employment Opportunity
-| Equal Opportunity	EEO	
+| Deposit | DPST | |
+| Depreciation* | DEPR* | |
+| Description* | DESCR* <br> DSC | Narrative data which translates a code or number. When a suffix, use “_DSC” (see | Standard Field Name Suffix table). |
+| Design | DSGN | |
+| Destination* | DEST* | |
+| Detail* | DETL* | |
+| Develop <br> Development <br> Deviation | DEV | |
+| Difference <br> Differential | DIFF | |
+| Digit | DGT | |
+| Direct <br> Direction <br> Directional | DIR | |
+| Disability <br> Disabled | DISA | |
+| Disbursed <br> Disbursement | DSB | |
+| Discount* | DISC* | |
+| Displacement | DSPL | |
+| Display | DISP | |
+| Disposition | DSP | |
+| Distribute <br> Distribution* | DIST* | |
+| District | DSTR | |
+| Division | DIV | |
+| Division of Continuing Education | DCE | |
+| Document | DOC | |
+| Donor | DONR | |
+| Down | DN | |
+| Drive <br> Driver | DRV | |
+| Drop | DRP | |
+| Due | DUE | |
+| Duplicate* <br> Duplication | DUP* | |
+| Each | EA | |
+| Early | ERLY | |
+| Earn <br> Earned <br> Earnings* | EARN* | |
+| Earned Income Credit | EIC | |
+| Educate <br> Education | EDU | |
+| Effect <br> Effective* | EFF* | |
+| Effective Date* | EFFDT* | |
+| Effective Date Sequence* | EFFSEQ* | |
+| Effort | EFRT | |
+| Elect <br> Elected <br> Elective | ELCT | |
+| Electronic Data Interchange | EDI | |
+| Electronic Funds Transfer | EFT | |
+| Electronic Mail | EM | |
+| Eligibility* <br> Eligible | ELIG* | |
+| Emergency | EMRG | |
+| Emphasis | EMPH | |
+| Employee* | EE* <br> EMPL | |
+| Employee ID* | EMPLID* | |
+| Employer* | ER* | |
+| Employment | EMPLMT | |
+| Encumber <br> Encumbrance | ENCB | |
+| End <br> Ending | END | |
+| End of Term | EOT | |
+| Endorse <br> Endorsement | ENDR | |
+| Endorsement | ENDR | |
+| Endow <br> Endowment | ENDW | |
+| Engineer <br> Engineering | ENGN | |
+| English | ENGL | |
+| Enrichment | ENRCH | |
+| Enrollment | ENRL | |
+| Enter <br> Entered <br> Entry | ENTR | |
+| Entitle <br> Entitlement | ENTL | |
+| Equal <br> Equality <br> Equivalence <br> Equivalent | EQ | |
+| Equal Employment Opportunity <br> Equal Opportunity | EEO | |
 | Equip	EQP	
 | Error	ERR	
 | Establishment	ESTB	
