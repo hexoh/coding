@@ -282,15 +282,15 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Export <br> Expense | EXP | |
 | Extend <br> Extended <br> Extension | EXT | |
 | External | EXTR | |
-| Facility	FCLT	
-| Faculty	FAC	
-| Family	FMLY	
-| Family Eduaction Rights and Privacy Act	FERPA	
-| Fast	FST	
-| Father	FATH	
-| Federal	FED	
-| Federal Labor and Security Act	FLSA	
-| Fee	FEE	
+| Facility | FCLT | |
+| Faculty | FAC | |
+| Family | FMLY | |
+| Family Eduaction Rights and Privacy Act | FERPA | |
+| Fast | FST | |
+| Father | FATH | |
+| Federal | FED | |
+| Federal Labor and Security Act | FLSA | |
+| Fee | FEE | |
 | Feet
 | Full Time	FT	
 | FICA	FICA	
