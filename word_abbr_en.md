@@ -291,243 +291,201 @@ Additions to this list can be made by submitting requests to ACS Quality Assuran
 | Federal | FED | |
 | Federal Labor and Security Act | FLSA | |
 | Fee | FEE | |
-| Feet
-| Full Time	FT	
-| FICA	FICA	
-| Field
-| Fields	FLD	
-| File	FILE	
-| Final	FNL	
-| Financial*	FIN*	
-| Financial Aid	FA	
-| Fine	FINE	
-| First	FRST	
-| Fiscal	FISC	
-| Fiscal Year	FY	
-| Fiscal Year to Date	FYTD	
-| Fix
-| Fixed	FIX	
-| Flag	FLG
-| SW	Data which functions as a flag or indicator. Used with only two possible states/| conditions. Data should normally be “Y” or “N”.
-| Flexible Spending Account	FSA	
-| Floor	FLR	
-| For	FOR	
-| Foreign	FGN	
-| Foreign Key	FK	
-| Form	FRM	
-| Format	FMT	
-| Former	FORMR	
-| Free	FREE	
-| Free Application for Federal Student Aid	FAFSA	
-| Free on Board	FOB	
-| Freeze
-| Frozen	FRZ	
-| Frequency*	FREQ*	
-| Fresh
-| Freshman	FRSH	
-| From	FR	
-| Fulfill
-| Fulfilled	FULF	
-| Full Time	FT	
-| Full Time Equivalent	FTE	
-| Function
-| Functional	FCN	
-| Fund
-| Funding	FUND	
-| Future	FUT	
-| Garnishment*	GARN*	
-| General	GENL	
-| General Education Degree	GED	
-| General Ledger	GL	
-| Geographic
-| Geography	GEOG	
-| Gift	GFT	
-| Global	GLBL	
-| Government	GOVT	
-| Grade	GDE
-| GRD	A value assigned to reflect performance or position on a scale
-| Grade Point Average	GPA	
-| Graduate	GRAD	
-| Grant
-| Granted	GRNT	
-| Gross	GROS	
-| Group	GRP	
-| Guarantee	GUAR	
-| Guaranteed Student Loan	GSL	
-| Guest	GST	
-| Handicap
-| Handicapped	HAND	
-| Head	HEAD	
-| Header*	HDR*	
-| Health	HLTH	
-| Held
-| Hold	HLD	
-| Help	HLP	
-| Hierarchy	HIER	
-| High	H	Normally used in conjunction with another word (i.e., High School abbreviated | as “HS”).
-| High School	HS	
-| High School Services	HSS	
-| Higher Education	HED	
-| Highway	HWAY	
-| Hire	HIRE	
-| History	HST	
-| Home	HM	
-| Honor	HONR	
-| Honor Society	HSC	
-| Hospital	HOSP	
-| Hour	HH	A duration of time expressed in hours
-| Hourly	HRLY	
-| Hours*	HRS*	
-| House
-| Housing	HSE	
-| How	HOW	
-| Human Resources	HR	
-| Human Resource System	HRS	
-| Identification
-| Identifier*
-| Indicator	ID*	Alphanumeric data which identifies a person, place, or thing
-| Image	IMG	
-| Immune
-| Immunization	IMUN	
-| Impact	IMPC	
-| Implementation	IMPL	
-| Import	IMP	
-| Import/Export	IMPEXP	
-| Inch	IN	
-| Include	INCL	
-| Income	INCM	
-| Increase
-| Increment	INCR	
-| Index	INDX	
-| Indicator	ID
-| IND	
-| Individual	INDV	
-| Individual Student Information Report	ISIR	
-| Information	INFO	
-| Initial
-| Initialize	INIT	
-| Injury*	INJ*	
-| Inoculation	INOC	
-| Input	INPT	
-| Inquiry	INQ	
-| Insert	ISRT	
-| Institution	INST	
-| Instruction
-| Instructional
-| Instructor	ISTR	
-| Instructional Need Analysis System	INAS	
-| Insurance	INS	
-| Inter-Unit*	IU*	
-| Interest	INT	
-| Interface*	INTFC*	
-| Internal	INTR	
-| International	INTL	
-| Interval	INVL	
-| Interview
-| Interviewer	INTV	
-| Invent	INVN	
-| Inventory	INV	
-| Investment*	INVEST*	
-| Invitation
-| Invite	INVT	
-| Invoice	INVC	
-| Issue
-| Issued	ISS	
-| Item	ITM	
-| Job	JOB	
-| Journal*	JRNL*	
-| Junior	JR	
-| Junior Science	JS	
-| Key	KEY	
-| Label	LBL	
-| Labor	LBR	
-| Laboratory	LAB	
-| Language	LNG	
-| Last
-| List	LST	
-| Late	LATE	
-| Latitude	LAT	
-| Layoff	LAYF	
-| Leave	LV	
-| Lecture	LCTR	
-| Ledger*	LED*	
-| Legal	LGL	
-| Lender	LNDR	
-| Length*	LEN*	
-| Letter	LTR	
-| Level	LVL	
-| Liaison	LISN	
-| Liberal Education	LBD	
-| Library	LIB	
-| License	LIC	
-| License Plate Number	LIC_PLTE_NBR	
-| Life	LIFE	
-| Limit*	LIM*	
-| Line*
-| Loan	LN*	
-| Link
-| Linked	LNK	
-| Liquid	LIQ	
-| List
-| Last	LST	
-| Literal	LTRL	
-| Load	LOAD	
-| Loan
-| Line*	LN	
-| Locate
-| Location*	LOC*	
-| Lock	LK	
-| Locker	LKR	
-| Log	LOG	
-| Log on	LOGON	
-| Long
-| Longest	LONG	
-| Long Term Care	LTC	
-| Long Term Disability	LTD	
-| Longitude	LON	
-| Lot	LOT	
-| Low	LOW	
-| Mail
-| Mailer
-| Mailing	MAIL	
-| Maintenance*	MAINT*	
-| Major	MJR	
-| Make	MK	
-| Manager	MGR	
-| Map	MAP	
-| Marital	MRTL	
-| Message Agent Server	MAS	
-| Mask	MSK	
-| Master Academic Records System	MARS	
-| Match
-| Matching	MTCH	
-| Math	MTH	
-| Matriculated
-| Matriculation	MTRC	
-| Maximum*	MAX*	
-| Medical
-| Medicinal	MED	
-| Meet
-| Meeting	MT	
-| Member	MBR	
-| Membership	MSHP	
-| Memo
-| Memorandum	MMO	
-| Memorial	MEMR	
-| Merchandise	MERCHNDS	
-| Merchant	MERCH	
-| Merit	MERT	
-| Message
-| Messages*	MSG*	
-| Meter	MTR	
-| Method	METH	
-| Microfilm	MFILM	
-| Middle	MID	
-| Military	MIL	
-| Minimum*	MIN*	
-| Minor	MINR	
-| Minute	MNT
-| MM	A duration of time expressed in minutes
+| Feet <br> Full Time	| FT | |	
+| FICA | FICA | |	
+| Field <br> Fields | FLD | |	
+| File | FILE | |	
+| Final |	FNL | |	
+| Financial* | FIN* | |	
+| Financial Aid | FA | |
+| Fine | FINE	| |
+| First | FRST | |
+| Fiscal | FISC | |
+| Fiscal Year |	FY | |	
+| Fiscal Year to Date	| FYTD | |
+| Fix <br> Fixed | FIX	| |
+| Flag | FLG <br> SW | Data which functions as a flag or indicator. Used with only two possible states/| conditions. Data should normally be “Y” or “N”. |
+| Flexible Spending Account |	FSA | |	
+| Floor |	FLR | |	
+| For |	FOR | |	
+| Foreign |	FGN	| |
+| Foreign Key |	FK | |
+| Form | FRM | |	
+| Format | FMT | |	
+| Former | FORMR | |	
+| Free | FREE	| |
+| Free Application for Federal Student Aid | FAFSA	| |
+| Free on Board |	FOB | |	
+| Freeze <br> Frozen | FRZ | |	
+| Frequency* | FREQ* | |
+| Fresh <br> Freshman	| FRSH | |	
+| From | FR | |	
+| Fulfill <br> Fulfilled | FULF | |	
+| Full Time |	FT | |	
+| Full Time Equivalent | FTE | |
+| Function <br> Functional | FCN | |	
+| Fund <br> Funding | FUND | |	
+| Future | FUT | |	
+| Garnishment* | GARN* | |
+| General | GENL | |	
+| General Education Degree | GED | |	
+| General Ledger | GL | |	
+| Geographic <br> Geography | GEOG | |	
+| Gift | GFT | |
+| Global | GLBL | |
+| Government | GOVT | |
+| Grade | GDE <br> GRD | A value assigned to reflect performance or position on a scale |
+| Grade Point Average | GPA | |
+| Graduate | GRAD | |
+| Grant <br> Granted | GRNT | |
+| Gross |	GROS | |
+| Group | GRP | |
+| Guarantee | GUAR | |
+| Guaranteed Student Loan | GSL | |
+| Guest | GST | |
+| Handicap <br> Handicapped |	HAND | |	
+| Head | HEAD	| |
+| Header* | HDR* | |	
+| Health | HLTH | |	
+| Held <br> Hold | HLD | |	
+| Help | HLP | |
+| Hierarchy | HIER | |
+| High | H | Normally used in conjunction with another word (i.e., High School abbreviated | as “HS”). |
+| High School |	HS | |
+| High School Services | HSS | |
+| Higher Education | HED | |
+| Highway | HWAY | |
+| Hire | HIRE	| |
+| History | HST	| |
+| Home | HM	| |
+| Honor | HONR | |
+| Honor Society | HSC	| |
+| Hospital | HOSP | |
+| Hour | HH | A duration of time expressed in hours |
+| Hourly | HRLY	| |
+| Hours* | HRS* | |
+| House <br> Housing | HSE | |	
+| How | HOW	| |
+| Human Resources | HR | |
+| Human Resource System | HRS	| |
+| Identification <br> Identifier* <br> Indicator | ID* |	Alphanumeric data which identifies a person, place, or thing |
+| Image | IMG | |	
+| Immune <br> Immunization | IMUN | |
+| Impact | IMPC | |
+| Implementation | IMPL | |
+| Import | IMP | |
+| Import/Export | IMPEXP | |
+| Inch | IN | |
+| Include | INCL | |
+| Income | INCM | |
+| Increase <br> Increment | INCR | |
+| Index | INDX | |
+| Indicator | ID <br> IND	| |
+| Individual | INDV | |
+| Individual Student Information Report | ISIR | |
+| Information | INFO | |
+| Initial <br> Initialize | INIT | |
+| Injury* | INJ* | |
+| Inoculation | INOC | |
+| Input | INPT | |
+| Inquiry | INQ | |
+| Insert | ISRT | |
+| Institution | INST | |
+| Instruction <br> Instructional <br> Instructor | ISTR | |
+| Instructional Need Analysis System | INAS	| |
+| Insurance | INS | |
+| Inter-Unit* | IU* | |
+| Interest | INT | |
+| Interface* | INTFC* | |
+| Internal | INTR | |
+| International | INTL | |
+| Interval | INVL | |
+| Interview <br> Interviewer | INTV | |
+| Invent | INVN | |
+| Inventory | INV | |
+| Investment* | INVEST* | |
+| Invitation <br> Invite | INVT | |
+| Invoice | INVC | |
+| Issue <br> Issued | ISS | |
+| Item | ITM | |
+| Job | JOB | |
+| Journal* | JRNL* | |
+| Junior | JR | |
+| Junior Science | JS	| |
+| Key | KEY | |
+| Label | LBL | |
+| Labor | LBR	| |
+| Laboratory | LAB | |
+| Language | LNG | |	
+| Last <br> List | LST | |
+| Late | LATE | |
+| Latitude | LAT | |
+| Layoff | LAYF | |
+| Leave | LV | |	
+| Lecture | LCTR | |
+| Ledger* | LED* | |
+| Legal | LGL | |
+| Lender | LNDR | |
+| Length* |	LEN* | |
+| Letter | LTR | |
+| Level | LVL | |
+| Liaison | LISN | |
+| Liberal Education | LBD | |	
+| Library | LIB	| |
+| License | LIC | |
+| License Plate Number | LIC_PLTE_NBR	| |
+| Life | LIFE | |
+| Limit* | LIM* | |
+| Line* <br> Loan | LN*	| |
+| Link <br> Linked | LNK | |
+| Liquid | LIQ | |
+| List <br> Last | LST |
+| Literal | LTRL | |
+| Load | LOAD | |
+| Loan <br> Line* | LN	| |
+| Locate <br> Location* | LOC* | |
+| Lock | LK	| |
+| Locker | LKR | |
+| Log | LOG | |
+| Log on | LOGON | |
+| Long <br> Longest | LONG | |
+| Long Term Care | LTC | |
+| Long Term Disability | LTD | |
+| Longitude | LON | |
+| Lot | LOT | |
+| Low | LOW | |
+| Mail <br> Mailer <br> Mailing | MAIL | |
+| Maintenance* | MAINT* | |
+| Major | MJR | |
+| Make | MK | |
+| Manager | MGR | |
+| Map | MAP | |
+| Marital | MRTL | |
+| Message Agent Server | MAS | |
+| Mask | MSK | |
+| Master Academic Records System | MARS | |
+| Match <br> Matching | MTCH | |
+| Math | MTH | |
+| Matriculated <br> Matriculation | MTRC | |
+| Maximum* | MAX* | |
+| Medical <br> Medicinal | MED | |
+| Meet <br> Meeting | MT | |
+| Member | MBR | |
+| Membership | MSHP | |
+| Memo <br> Memorandum | MMO | |
+| Memorial | MEMR | |
+| Merchandise | MERCHNDS | |
+| Merchant | MERCH | |
+| Merit | MERT | |
+| Message <br> Messages* | MSG* | |
+| Meter | MTR | |
+| Method | METH | |
+| Microfilm | MFILM | |
+| Middle | MID | |
+| Military | MIL | |
+| Minimum* | MIN* | |
+| Minor | MINR | |
+| Minute | MNT <br> MM | A duration of time expressed in minutes |
 | Miscellaneous	MISC	
 | Mode	MDE	
 | Modification
